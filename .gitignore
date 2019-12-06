@@ -1,4 +1,10 @@
-# Ivan
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Local configuration file (sdk path, etc)
+local.properties
 
 # Gradle files
 .gradle/
@@ -23,4 +29,4 @@ lint/intermediates/
 lint/generated/
 lint/outputs/
 lint/tmp/
-lint/reports
+lint/reports/
